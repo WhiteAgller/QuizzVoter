@@ -1,4 +1,6 @@
-﻿namespace Quizz;
+﻿using System.Collections.Generic;
+
+namespace Quizz;
 
 public class Group
 {
