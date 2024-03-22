@@ -1,0 +1,15 @@
+D:\Quizz\Quizz\bin\Release\net8.0\publish\appsettings.json
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Quizz.exe
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Quizz.dll
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Quizz.deps.json
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Quizz.runtimeconfig.json
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Quizz.pdb
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Microsoft.Extensions.Configuration.dll
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Microsoft.Extensions.Configuration.Binder.dll
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Microsoft.Extensions.Configuration.Json.dll
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Quizz\Quizz\bin\Release\net8.0\publish\Microsoft.Extensions.Primitives.dll
